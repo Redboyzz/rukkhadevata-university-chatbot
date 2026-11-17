@@ -1,0 +1,83 @@
+[
+  {
+    "question": "What courses are available?",
+    "examples": [
+      "Which programmes do you offer?",
+      "Tell me about the courses",
+      "What can I study at the university?"
+    ],
+    "answer": "For this fictional demo, Rukkhadevata University offers B.Com, B.A. and B.Sc. programmes. These course names are sample content, not real college offerings."
+  },
+  {
+    "question": "How do I apply for admission?",
+    "examples": [
+      "What is the admission process?",
+      "How can I get admitted?",
+      "How do I apply?"
+    ],
+    "answer": "For this fictional demo, students submit an application form and supporting documents, then follow up with the admissions office. This is illustrative only; no real Rukkhadevata University admission process exists."
+  },
+  {
+    "question": "What documents are required for admission?",
+    "examples": [
+      "Which certificates should I bring?",
+      "Documents needed to apply",
+      "What papers are required?"
+    ],
+    "answer": "Sample document list for the demo: previous exam mark sheets, a school leaving certificate, proof of identity, and passport-size photographs. Check with a real institution for its actual requirements."
+  },
+  {
+    "question": "What are the college opening hours?",
+    "examples": [
+      "When is the college open?",
+      "What are the timings?",
+      "When can I visit the campus?"
+    ],
+    "answer": "The fictional demo uses sample office hours of Monday to Friday, 9:00 a.m. to 4:00 p.m. These are not real campus hours."
+  },
+  {
+    "question": "Are scholarships available?",
+    "examples": [
+      "Can I get financial aid?",
+      "Tell me about scholarships",
+      "Is there a merit scholarship?"
+    ],
+    "answer": "For demonstration purposes, Rukkhadevata University's fictional FAQ mentions merit-based and need-based scholarships. No actual scholarships or eligibility rules are being represented."
+  },
+  {
+    "question": "Where is the library?",
+    "examples": [
+      "Tell me about library facilities",
+      "Does the college have a library?",
+      "Where can I borrow books?"
+    ],
+    "answer": "The fictional demo assumes the library is in the main academic building. This location is sample content."
+  },
+  {
+    "question": "How are examinations conducted?",
+    "examples": [
+      "What is the exam process?",
+      "When are exams held?",
+      "How will I take examinations?"
+    ],
+    "answer": "Sample demo information: examinations may include internal assessments and end-of-term exams. Refer to a real institution for actual examination rules and dates."
+  },
+  {
+    "question": "Does the college provide hostel facilities?",
+    "examples": [
+      "Is accommodation available?",
+      "Do you have a hostel?",
+      "Can students stay on campus?"
+    ],
+    "answer": "The fictional Rukkhadevata University demo does not confirm hostel availability. Please contact the relevant real institution for accommodation information."
+  },
+  {
+    "question": "Where is the university located?",
+    "examples": [
+      "Where is this university?",
+      "Where is the campus?",
+      "Is the university in Sumeru?"
+    ],
+    "answer": "In this fictional demo, Rukkhadevata University is secluded in Sumeru. This is sample setting information, not a real-world address."
+  }
+]
